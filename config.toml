@@ -2,7 +2,7 @@ base_url = "https://resume.alongwy.top"
 compile_sass = true
 title = "Bartosz Boguszewski"
 description = "A clean resume"
-generate_feed = true
+generate_feed = false
 build_search_index = false
 taxonomies = [
   { name = "tags", feed = true },
