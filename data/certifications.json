@@ -1,8 +1,14 @@
 [
 	{
+		"name": "ITIL Foundation Certificate in IT Service Management",
+		"description": "Yeah, I did it",
+		"badge": "https://www.peoplecert.org/-/media/peoplecert/images/logos/axelos-logos/itil.png",
+		"proof": "#"
+	},
+	{
 		"name": "Arctic Code Vault Contributor",
 		"description": "Along contributed code to several repositories in the 2020 GitHub Archive Program.",
 		"badge": "https://github.githubassets.com/images/modules/profile/badge--acv-64.png",
-		"proof": "https://github.com/AlongWY"
+		"proof": "https://github.com/Bar3nho"
 	}
 ]

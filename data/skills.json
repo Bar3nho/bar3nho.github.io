@@ -2,25 +2,22 @@
   {
     "grouping": "Languages, Operating Systems & Tools",
     "skills": [
-      "Cplusplus",
-      "Rust",
-      "Java",
-      "Python",
+      "PHP",
       "git",
       "linux",
       "bash",
-      "javascript"
+      "Python",
+      "Redis",
+      "Varnish",
+      "RabbitMQ",
+      "Graylog",
+      "Rust"
     ]
   },
   {
     "grouping": "Platform Development & Administration",
     "skills": [
-      "NGINX",
-      "MySQL",
-      {
-        "name": "Slurm",
-        "icon": "bash"
-      }
+      "NGINX"
     ]
   },
   {
@@ -31,7 +28,11 @@
         "icon": "MySQL"
       },
       {
-        "name": "Sqlite",
+        "name": "gretl",
+        "icon": "bash"
+      },
+      {
+        "name": "RStudio",
         "icon": "bash"
       }
     ]
@@ -40,23 +41,11 @@
     "grouping": "Architecture",
     "skills": [
       {
-        "name": "IP Networking",
-        "icon": "bash"
+        "name": "GraphQl",
+        "icon": "graphql"
       },
       {
-        "name": "DNS",
-        "icon": "bash"
-      },
-      {
-        "name": "Firewalls",
-        "icon": "bash"
-      },
-      {
-        "name": "Load Balancing",
-        "icon": "bash"
-      },
-      {
-        "name": "Microservices",
+        "name": "CQRS",
         "icon": "bash"
       },
       {
@@ -73,9 +62,9 @@
         "link": "https://docker.com"
       },
       {
-        "name": "Aliyun",
-        "link": "https://aliyun.com",
-        "icon": "bash"
+        "name": "Google Cloud",
+        "link": "https://google.cloud.com",
+        "icon": "google"
       }
     ]
   }
