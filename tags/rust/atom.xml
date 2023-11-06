@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Bartosz Boguszewski - Rust</title>
+    <subtitle>A clean resume</subtitle>
+    <link href="https://bar3nho.github.io/tags/rust/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://bar3nho.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-09-03T13:30:54.712+00:00</updated>
+    <id>https://bar3nho.github.io/tags/rust/atom.xml</id>
+    <entry xml:lang="en">
+        <title>bate: bar3nho&#x27;s another text editor</title>
+        <published>2021-09-03T13:30:54.712+00:00</published>
+        <updated>2021-09-03T13:30:54.712+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://bar3nho.github.io/projects/bate/" type="text/html"/>
+        <id>https://bar3nho.github.io/projects/bate/</id>
+        
+        <content type="html">&lt;p&gt;Test test test&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
