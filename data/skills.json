@@ -1,40 +1,43 @@
 [
   {
-    "grouping": "Languages, Operating Systems & Tools",
+    "grouping": "Languages, & Frameworks",
     "skills": [
       "PHP",
+      {
+        "name": "PHPUnit",
+        "icon": "php"
+      },
+      {
+        "name": "Magento 2",
+        "icon": "magento"
+      },
+      "Symfony",
+      "Python",
+      "C",
+      "bash"
+    ]
+  },
+  {
+    "grouping": "Operating Systems & Tools",
+    "skills": [
       "git",
       "linux",
-      "bash",
-      "Python",
-      "Redis",
-      "Varnish",
       "RabbitMQ",
-      "Graylog",
-      "Rust"
-    ]
-  },
-  {
-    "grouping": "Platform Development & Administration",
-    "skills": [
-      "NGINX"
-    ]
-  },
-  {
-    "grouping": "Data Management",
-    "skills": [
       {
-        "name": "MySQL/MariaDB",
-        "icon": "MySQL"
+        "name": "Graylog",
+        "icon": "google"
+      },
+      "Redis",
+      {
+        "name": "Varnish",
+        "icon": "vagrant"
       },
       {
-        "name": "gretl",
-        "icon": "bash"
+        "name": "Grafana",
+        "icon": "grafana"
       },
-      {
-        "name": "RStudio",
-        "icon": "bash"
-      }
+      "New Relic",
+      "Composer"
     ]
   },
   {
@@ -55,6 +58,14 @@
     ]
   },
   {
+    "grouping": "Project Management",
+    "skills": [
+      "Jira",
+      "ITIL4",
+      "Google Suite"
+    ]
+  },
+  {
     "grouping": "Containers & Cloud",
     "skills": [
       {
@@ -64,7 +75,24 @@
       {
         "name": "Google Cloud",
         "link": "https://google.cloud.com",
-        "icon": "google"
+        "icon": "googlecloud"
+      }
+    ]
+  },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      {
+        "name": "MySQL/MariaDB",
+        "icon": "MySQL"
+      },
+      {
+        "name": "gretl",
+        "icon": "bash"
+      },
+      {
+        "name": "RStudio",
+        "icon": "rstudio"
       }
     ]
   }

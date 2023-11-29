@@ -3,10 +3,9 @@ title: "About"
 ---
 
 ### Hi there 👋 I'm Bartosz Boguszewski.
-Professional PHP developer.
+A seasoned backend developer with a proven track record in Magento.
 
 - 🌱 I’m currently learning Go and rust.
-<!-- - 💬 Ask me anything [here](https://github.com/bar3nho/bar3nho/issues). -->
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/bar3nho)  [Mail](mailto:bartosz.boguszewski@proton.me)
 - 🐯 My GitHub [Overview](https://github.com/bar3nho)
 
