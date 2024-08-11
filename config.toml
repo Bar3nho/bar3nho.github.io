@@ -1,0 +1,62 @@
+title = "Bartosz Boguszewski"
+description = "You can find me on:"
+base_url = "http://localhost"
+compile_sass = true
+highlight_code = true
+build_search_index = true
+generate_feed = true
+highlight_theme = "base16-ocean-light"
+default_language = "en"
+
+[extra.comment.utterances]
+repo = "bar3nho/bar3nho.github.io"
+issue_term = "pathname"
+theme = "github-dark"
+
+[languages.en]
+generate_feed = true
+taxonomies = [
+    {name = "tags"},
+]
+
+[languages.en.translations]
+language_name = "English"
+about = "About"
+home = "Home"
+tags = "Tags"
+archive = "Archive"
+links = "Links"
+date_format = "%Y-%m-%d"
+next_page = "Next Page"
+last_page = "Last Page"
+
+[languages.pl.translations]
+language_name = "Polski"
+about = "Info"
+home = "Home"
+tags = "Tagi"
+archive = "Archiwum"
+links = "Linki"
+date_format = "%d-%m-%Y"
+next_page = "Następna Strona"
+last_page = "Poprzednia Strona"
+
+[languages.pl]
+generate_feed = true
+taxonomies = [
+    {name = "tags"},
+]
+
+[extra.social]
+github = "bar3nho"
+twitter = "bar3nho"
+instagram = "bartallia"
+linkedin = "bar3nho"
+stackoverflow = "10071370/bartosz-boguszewski"
+
+[extra]
+mode = "dark"
+
+[extra.show]
+tags = true
+links = true
