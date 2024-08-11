@@ -1,6 +1,6 @@
 title = "Bartosz Boguszewski"
 description = "You can find me on:"
-base_url = "http://localhost"
+base_url = "https://bar3nho.github.io"
 compile_sass = true
 highlight_code = true
 build_search_index = true
