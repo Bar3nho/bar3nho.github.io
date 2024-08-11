@@ -2,11 +2,11 @@ title = "Bartosz Boguszewski"
 description = "You can find me on:"
 base_url = "https://bar3nho.github.io"
 compile_sass = true
-highlight_code = true
 build_search_index = true
-generate_feed = true
-highlight_theme = "base16-ocean-light"
 default_language = "en"
+
+[markdown]
+highlight_code = true
 
 [extra.comment.utterances]
 repo = "bar3nho/bar3nho.github.io"
@@ -14,7 +14,6 @@ issue_term = "pathname"
 theme = "github-dark"
 
 [languages.en]
-generate_feed = true
 taxonomies = [
     {name = "tags"},
 ]
@@ -42,7 +41,6 @@ next_page = "Następna Strona"
 last_page = "Poprzednia Strona"
 
 [languages.pl]
-generate_feed = true
 taxonomies = [
     {name = "tags"},
 ]
