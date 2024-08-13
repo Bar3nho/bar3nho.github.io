@@ -1,5 +1,4 @@
 title = "Bartosz Boguszewski"
-description = "You can find me on:"
 base_url = "https://bar3nho.github.io"
 compile_sass = true
 build_search_index = true
@@ -28,6 +27,8 @@ links = "Links"
 date_format = "%Y-%m-%d"
 next_page = "Next Page"
 last_page = "Last Page"
+description = "An unprofessional blog about professional topics."
+invitation = "You can find me on:"
 
 [languages.pl.translations]
 language_name = "Polski"
@@ -39,6 +40,8 @@ links = "Linki"
 date_format = "%d-%m-%Y"
 next_page = "Następna Strona"
 last_page = "Poprzednia Strona"
+description = "Nieprofesjonalny blog o profesjonalnych zagadnieniach."
+invitation = "Możesz mnie znaleźć na:"
 
 [languages.pl]
 taxonomies = [

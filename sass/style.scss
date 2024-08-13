@@ -410,8 +410,9 @@ img {
     }
 
     iframe {
+      aspect-ratio: 16 / 9;
+      height: auto;
       width: 100%;
-      height: 500px;
     }
   }
 
