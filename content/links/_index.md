@@ -4,7 +4,7 @@ template = "links.html"
 paginate_by = 0
 +++
 
-External links:
-- Original theme designed by [CaiCai](https://www.caicai.me)
-- Proudly published with [Zola](https://www.getzola.org/)!
-- Theme was ported to Zola by [longfangsong](https://github.com/longfangsong/anatole-zola), I just tuned it to my needs.
+Linki zewnętrzne:
+- Oryginalny motyw zaprojektowany przez [CaiCai](https://www.caicai.me)
+- Strona stworzona została przy uzyciu [Zola](https://www.getzola.org/)!
+- Motyw został przeniesiony do Zola przez [longfangsong](https://github.com/longfangsong/anatole-zola), a ja tylko dostosowałem go do moich potrzeb.
